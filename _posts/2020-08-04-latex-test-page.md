@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Please Ignore"
+date:   2020-08-04 10:54:27 +0200
+categories: math test
+---
+
 # LaTeX Test Page
 
 ## Inline
