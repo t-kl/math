@@ -9,7 +9,7 @@ categories: math test
 
 ## Inline
 
-The solutions of $$ ax^2 + bx + c = 0 $$ are $$ x_{1,2} = \frac{-b + \sqrt{b^2 - 4ac}}{2a} $$.
+The solutions of $$ ax^2 + bx + c = 0 $$ are $$ x_{1,2} = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$.
 
 ## Block
 
